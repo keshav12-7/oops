@@ -3,7 +3,7 @@ using namespace std;
 // class 
 
 class house{
-    public:
+    // public:
     // member variables
 
 
