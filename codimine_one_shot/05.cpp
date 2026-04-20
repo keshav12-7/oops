@@ -10,7 +10,7 @@ class person{
             age=1;
             name="default";
         }
-        
+
         void getdata(){
             cout<<"age is   "<<age<<endl;
             cout<<"height is  "<<height<<endl;
@@ -24,4 +24,4 @@ int main(){
 
     a.getdata();
     return 0;
-}
+} 
