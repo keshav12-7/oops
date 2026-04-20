@@ -23,5 +23,7 @@ class person{
 int main(){
     person keshav;
     keshav.getter();
+    person keshav2("keshav",22,170.00);
+    keshav2.getter();
     return 0;
 }
